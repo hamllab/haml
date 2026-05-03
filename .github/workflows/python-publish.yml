@@ -44,7 +44,7 @@ jobs:
 
     environment:
       name: pypi
-      url: https://pypi.org/project/hamltools/${{ github.event.release.name }}
+      url: https://pypi.org/project/hamltools
 
     steps:
       - name: Retrieve release distributions
