@@ -1,7 +1,7 @@
 [project]
 name = "hamltools"
 version = "0.1.0"
-description = "Add your description here"
+description = "Core utilities for the Human and Machine Learning lab."
 readme = "README.md"
 authors = [
     { name = "Neal Morton", email = "mortonne@gmail.com" }
